@@ -1,0 +1,17 @@
+this plate of caeser salad
+
+attributes:
+  lettuceType = 'romaine lettuce'
+  toppings = ['croutons','parmesan cheese']
+  hasChicken = false
+  dressing = 'caeser dressing'
+
+methods:
+  changeLettuceSpinach: lettuceType = 'spinach'
+
+  addTopping: toppings = 'olive oil'
+    adds 'olive oil' to toppings array
+
+  addChicken: hasChicken = true
+
+  setDressingVinaigrette: dressing = 'vinaigrette'
