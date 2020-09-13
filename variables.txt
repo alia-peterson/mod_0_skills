@@ -1,0 +1,19 @@
+
+var food = 'chicken nuggets'
+
+var isDelicious = true
+
+food = 'pot stickers'
+
+var num2 = 34
+
+var num7 = 20
+
+var quotient = num7 / num2
+
+var songs = ['Revenge, and a Little More', 'Bottom of the Deep Blue Sea']
+
+songs.shift();
+
+food.length();
+// i think this is what was being asked for? 
