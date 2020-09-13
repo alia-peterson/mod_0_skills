@@ -1,0 +1,13 @@
+class: soup
+
+attributes:
+  ingredients (array)
+  size (string)
+  isVegetarian (boolean)
+  spiceLevel (integer)
+
+methods:
+  addIngredient (adds one ingredient to ingredients array)
+  addSpice (increase spiceLevel integer by 1)
+  changeSizeLarge (changes size string to 'large')
+  addMeat (changes isVegetarian to false)
