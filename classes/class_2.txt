@@ -1,0 +1,13 @@
+class: salad
+
+attributes:
+  lettuceType (string)
+  toppings (array)
+  hasChicken (boolean)
+  dressing (string)
+
+methods:
+  changeLettuceSpinach (changes lettuceType to 'spinach')
+  addTopping (adds item to toppings array)
+  addChicken (changes hasChicken to true)
+  setDressingVinaigrette (changes dressing string to 'vinaigrette')
