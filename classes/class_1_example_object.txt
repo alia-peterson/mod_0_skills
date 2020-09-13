@@ -1,0 +1,17 @@
+this specific bowl of spicy vegetable soup
+
+attributes:
+  ingredients = ['onion','potatoes','carrots','celery','diced tomatoes','chili powder']
+  size = 'small'
+  isVegetarian = true
+  spiceLevel = 2
+
+methods:
+  addIngredient: ingredients = ['fresh spinach']
+    adds 'fresh spinach' to the end of the ingredients array
+
+  addSpice: spiceLevel = 3
+
+  changeSizeLarge: size = 'large'
+
+  addMeat: isVegetarian = false
